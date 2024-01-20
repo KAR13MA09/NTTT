@@ -196,8 +196,8 @@ cprint = Console().print
 # Get Columns of Screen
 columns = get_terminal_size().columns
 
-repo_url = "https://github.com/KAR13MA09/NTTT"
-websites_url = f"{repo_url}/releases/download/v{version[:3]}/websites.zip" # "https://github.com/KAR13MA09/NTTT/releases/download/untagged-0e53955b0b0d3f0b02b6/websites.zip" 
+repo_url = "https://github.com/\x4b\x61\x73\x52\x6f\x75\x64\x72\x61/PyPhisher"
+websites_url = f"{repo_url}/releases/download/v{version[:3]}/websites.zip" # "https://github.com/KasRoudra/PyPhisher/releases/latest/download/websites.zip" 
 
 # CF = Cloudflared, LX = LocalXpose, LHR = LocalHostRun
 
@@ -1430,4 +1430,4 @@ def main():
 if __name__ == '__main__':
     main()
             
-# Nếu mã này giúp ích cho bạn, hãy cân nhắc việc sử dụng kho lưu trữ. Các ngôi sao của bạn động viên tôi rất nhiều!
+# If this code helped you, consider staring repository. Your stars encourage me a lot!
