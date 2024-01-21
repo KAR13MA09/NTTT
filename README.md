@@ -199,11 +199,11 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 - [![Github](https://img.shields.io/badge/Github-KasRoudra-purple?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https:imgshieldsiobadgeGmail-KAR13MA09-green?style=for-the-badge&logo=gmail)](mailtokNguyentrinhtuantu1110@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-blue?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-blue?style=for-the-badge&logo=facebook)](https:/facebookc.com/kar13ma09)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-orange?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-orange?style=for-the-badge&logo=messenger)](https://mme/Kasr13ma09)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
+- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/Kar13ma09_vn)
 
