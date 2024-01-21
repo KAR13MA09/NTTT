@@ -197,7 +197,7 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-purple?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.iobadgeGithub-KAR13MA09-purple?style=for-the-badge&logo=github)](https://github.com/KAR13MA09)
 
 - [![Gmail](https:imgshieldsiobadgeGmail-KAR13MA09-green?style=for-the-badge&logo=gmail)](mailtokNguyentrinhtuantu1110@gmail.com)
 
