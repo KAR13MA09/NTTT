@@ -45,7 +45,7 @@ wget https://raw.githubusercontent.com/KAR13MA09/NTTT/main/NTTT.py && python3 NT
 ### Docker
 
  - `sudo docker pull KAR13MA09/NTTT`
- - `sudo docker run --rm -it KAR13MA09/NTTT'
+ - `sudo docker run --rm -it KAR13MA09/NTTT`
 
 ### Support
 
