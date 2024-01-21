@@ -20,27 +20,27 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/KAR13MA09/NTTT```
 
 ##### Enter the directory
- - ```cd PyPhisher```
+ - ```cd NTTT```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt --break-system-packages```
 
 ##### Run the tool
- - ```python3 pyphisher.py```
+ - ```python3 NTTT.py```
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://raw.githubusercontent.com/KAR13MA09/NTTT/main/NTTT.py && python3 NTTT.py
 
 ```
 
 ### Pip
- - `pip3 install pyphisher` [For Termux]
- - `sudo pip3 install pyphisher  --break-system-packages` [For Linux]
- - `pyphisher`
+ - `pip3 install NTTT` [For Termux]
+ - `sudo pip3 install NTTT  --break-system-packages` [For Linux]
+ - `NTTT`
 
 ### Docker
 
